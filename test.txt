@@ -1,3 +1,4 @@
 This is test one
 Another line for test one
 Third line added
+Logo alignment bug fixwd
